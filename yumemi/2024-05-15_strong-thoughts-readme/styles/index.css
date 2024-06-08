@@ -1,0 +1,5 @@
+/* テーマのデフォルトスタイルを上書き */
+.slidev-layout h1 + p {
+  margin-top: 2rem;
+  opacity: 1;
+}
